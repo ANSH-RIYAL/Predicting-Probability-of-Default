@@ -5,3 +5,4 @@ Worked with a mid sized real world dataset (1.2 Million entries) of company info
 Worked on data cleaning, feature extraction, selection and modification along with multiple modelling approaches (from logit models, General Additive models to Neural Networks).
 
 Part of term project for course 'Applied ML in Finance'
+All rights to data belong to Dr. Roger Stein, NYU
