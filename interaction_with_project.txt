@@ -1,0 +1,11 @@
+Run all code blocks in Final_Attempt.ipynb
+
+The final harness can be run with the last cell
+in the notebook under the Final Walk-Forward Harness section with the function
+call `test_walk_forward_harness()`. 
+
+Add the holdout sample to the folder. Please input the holdout sample file above the function call. 
+
+It may take a few minutes to load in the model.
+
+We developed on Google Colab and it runs smoothly there.
